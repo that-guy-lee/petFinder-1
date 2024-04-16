@@ -1,0 +1,18 @@
+[
+    {
+        "label": "Parrot",
+        "value": "Parrot",
+        "image": "./assets/birdbreeds/parrot.jpg"
+    },
+    {
+        "label": "African grey",
+        "value": "African grey",
+        "image": "./assets/birdbreeds/africanGrey.jpg"
+    },
+    {
+        "label": "Other",
+        "value": "Other",
+        "image": "./assets/birdbreeds/other.jpg"
+    }
+    
+]

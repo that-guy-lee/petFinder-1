@@ -1,0 +1,1477 @@
+{
+	"provinces": [
+		{
+			"cities": [
+				{
+					"areas": [
+						"Acaciavale",
+						"Colenso",
+						"Ezakheni",
+						"Hospitaalpark",
+						"Lyellton",
+						"Modelkloof",
+						"Observatory",
+						"Other",
+						"Rose Park",
+						"Stevenson Park",
+						"Van Riebeeck Park"
+					],
+					"name": "Ladysmith"
+				},
+				{
+					"areas": [
+						"Albersville",
+						"Anerley",
+						"Marburg",
+						"Merlewood",
+						"Oribi Flats",
+						"Oslo Beach",
+						"Other",
+						"Palm Beach",
+						"Sea Park",
+						"Shelly Beach",
+						"Umtentweni"
+					],
+					"name": "Port Shepstone"
+				},
+				{
+					"areas": [
+						"Alton",
+						"Arboretum",
+						"Birdswood",
+						"Brackenham",
+						"Empangeni",
+						"Felixton",
+						"Meer-en-See",
+						"Other",
+						"Pelham",
+						"Veldenvlei",
+						"Wildenweide"
+					],
+					"name": "Richards Bay"
+				},
+				{
+					"areas": [
+						"Amajuba",
+						"Arbour Park",
+						"Aviary Hill",
+						"Madadeni",
+						"Ncandu Park",
+						"Newcastle Central",
+						"Osizweni",
+						"Other",
+						"Paradise",
+						"Pioneer Park",
+						"Schuinshoogte"
+					],
+					"name": "Newcastle"
+				},
+				{
+					"areas": [
+						"Berea",
+						"Bluff",
+						"Durban North",
+						"Glenwood",
+						"Hillcrest",
+						"Morningside",
+						"Musgrave",
+						"Other",
+						"Pinetown",
+						"Umhlanga",
+						"Westville"
+					],
+					"name": "Durban"
+				},
+				{
+					"areas": [
+						"Bergsig",
+						"Bergview",
+						"Kwaggafontein",
+						"Morelig",
+						"Navalsig",
+						"Other",
+						"Platkop",
+						"Tshiame",
+						"Warden",
+						"Wilgepark",
+						"Witsieshoek"
+					],
+					"name": "Harrismith"
+				},
+				{
+					"areas": [
+						"Bisley",
+						"Hayfields",
+						"Lincoln Meade",
+						"Montrose",
+						"Oak Park",
+						"Other",
+						"Pelham",
+						"Prestbury",
+						"Scottsville",
+						"Wembley",
+						"Woodlands"
+					],
+					"name": "Pietermaritzburg"
+				},
+				{
+					"areas": [
+						"Byrne",
+						"Karkloof",
+						"Magwa",
+						"Merthley",
+						"Ncumo",
+						"Other",
+						"Umgeni",
+						"Upper Umkomazi",
+						"Wartburg",
+						"Wylie Park",
+						"Yarrow"
+					],
+					"name": "Richmond"
+				},
+				{
+					"areas": [
+						"Emakhasana",
+						"Emvutshini",
+						"Enkonjeni",
+						"Entongweni",
+						"KwaNduku",
+						"KwaNtombela",
+						"KwaQokololo",
+						"Mtonjaneni",
+						"Nkandla",
+						"Other",
+						"Othobothini"
+					],
+					"name": "Ulundi"
+				},
+				{
+					"areas": [
+						"Emaqwabe",
+						"Embizweni",
+						"KwaMondi",
+						"KwaMondi",
+						"Mangola",
+						"Ntumeni",
+						"Ntumeni",
+						"Ongoye",
+						"Other",
+						"Sundumbili",
+						"Ungoya"
+					],
+					"name": "Eshowe"
+				},
+				{
+					"areas": [
+						"Other"
+					],
+					"name": "Other"
+				}
+			],
+			"name": "KwaZulu-Natal"
+		},
+		{
+			"cities": [
+				{
+					"areas": [
+						"Acacia Grove",
+						"Aloe Alley",
+						"Cheetah Close",
+						"Karoo Breeze",
+						"Lion's Den",
+						"Olive Avenue",
+						"Other",
+						"Savannah Heights",
+						"Town Square",
+						"Wildebeest Way",
+						"Zebra Zone"
+					],
+					"name": "Beaufort West"
+				},
+				{
+					"areas": [
+						"Aloe Avenue",
+						"Cactus Corner",
+						"Desert Drive",
+						"Diamond Hill",
+						"Honeybush Heights",
+						"Orange Orchard",
+						"Other",
+						"Palm Tree Place",
+						"Riverbank Road",
+						"Rooibos Lane",
+						"Sunflower Street"
+					],
+					"name": "Prieska"
+				},
+				{
+					"areas": [
+						"Amethyst Avenue",
+						"Diamond Drive",
+						"Emerald Enclave",
+						"Garnet Gardens",
+						"Hartswater Heights",
+						"Opal Orchard",
+						"Other",
+						"Pecan Avenue",
+						"Ruby Ridge",
+						"Sapphire Street",
+						"Topaz Terrace"
+					],
+					"name": "Hartswater"
+				},
+				{
+					"areas": [
+						"Belgravia",
+						"Floors",
+						"Hadison Park",
+						"Homestead",
+						"Labram",
+						"Lennoxton",
+						"Memorial Road Area",
+						"New Park",
+						"Other",
+						"Rhodesdene",
+						"Royldene"
+					],
+					"name": "Kimberley"
+				},
+				{
+					"areas": [
+						"Blue Sky",
+						"Copper Creek",
+						"Dustville",
+						"Hillsview",
+						"Iron Ore",
+						"Kalahari Heights",
+						"Kuru Vista",
+						"Main Street",
+						"Other",
+						"Safari Park",
+						"Wagon Wheel"
+					],
+					"name": "Kuruman"
+				},
+				{
+					"areas": [
+						"Blydeville",
+						"De Rand",
+						"Keidebees",
+						"Meyerhof",
+						"Middelpos",
+						"Oosterville",
+						"Oranjezicht",
+						"Other",
+						"Paballelo",
+						"Spitskop",
+						"Strand"
+					],
+					"name": "Upington"
+				},
+				{
+					"areas": [
+						"Cactus Corner",
+						"Central De Aar",
+						"Karoo Heights",
+						"Olive Grove",
+						"Other",
+						"Pumpkin Patch",
+						"Quiver Tree",
+						"Railway Road",
+						"Starry Night",
+						"Sunflower Terrace",
+						"Windmill Gardens"
+					],
+					"name": "De Aar"
+				},
+				{
+					"areas": [
+						"Copper Creek",
+						"Desert Mirage",
+						"Dune View",
+						"Iron Ore Hills",
+						"Kalahari Sands",
+						"Manganese Heights",
+						"Mining Village",
+						"Other",
+						"Prospector's Rest",
+						"Red Sands",
+						"Sunset Ridge"
+					],
+					"name": "Kathu"
+				},
+				{
+					"areas": [
+						"Daisyville",
+						"Desert Oasis",
+						"Flower Street",
+						"Greenfields",
+						"Klondike",
+						"Mountain View",
+						"Other",
+						"Riverdale",
+						"Sunnydale",
+						"Town Center",
+						"Vineyard"
+					],
+					"name": "Springbok"
+				},
+				{
+					"areas": [
+						"Highland Heights",
+						"Karoo Koppie",
+						"Karoo Oasis",
+						"Moonlight Crescent",
+						"Mountain View",
+						"Olive Grove",
+						"Other",
+						"Riverside Road",
+						"Starlight Circle",
+						"Victoria Street",
+						"Wagon Wheel Way"
+					],
+					"name": "Colesberg"
+				},
+				{
+					"areas": [
+						"Other"
+					],
+					"name": "Other"
+				}
+			],
+			"name": "Northern Cape"
+		},
+		{
+			"cities": [
+				{
+					"areas": [
+						"Agatha",
+						"Aquapark",
+						"Arbor Park",
+						"Duiwelskloof",
+						"Gravelotte",
+						"Haenertsburg",
+						"Modjadjiskloof",
+						"Mooketsi",
+						"Nkowankowa",
+						"Other",
+						"Tzaneen CBD"
+					],
+					"name": "Tzaneen"
+				},
+				{
+					"areas": [
+						"Bela-Bela",
+						"Koro Creek",
+						"Lagendal",
+						"Modimolle",
+						"Mookgophong",
+						"Other",
+						"Rooiberg",
+						"Settlers",
+						"Thabazimbi",
+						"Vaalfontein",
+						"Vaalwater"
+					],
+					"name": "Warmbaths"
+				},
+				{
+					"areas": [
+						"Bela-Bela",
+						"Koro Creek",
+						"Lephalale",
+						"Modimolle CBD",
+						"Mookgophong",
+						"Nylstroom",
+						"Other",
+						"Roedtan",
+						"Thabazimbi",
+						"Vaalfontein",
+						"Welgevonden Game Reserve"
+					],
+					"name": "Modimolle"
+				},
+				{
+					"areas": [
+						"Bendor",
+						"Fauna Park",
+						"Flora Park",
+						"Ivy Park",
+						"Ladanna",
+						"Mahlasedi Park",
+						"Moregloed",
+						"Other",
+						"Ster Park",
+						"Thornhill",
+						"Welgelegen"
+					],
+					"name": "Polokwane"
+				},
+				{
+					"areas": [
+						"Boschhoek",
+						"Dikhololo Game Reserve",
+						"Klipdrift",
+						"Mabalingwe Nature Reserve",
+						"Other",
+						"Rooiberg",
+						"Sondela Nature Reserve",
+						"Thabazimbi",
+						"Vaalwater",
+						"Warmbaths",
+						"Welgevonden Game Reserve"
+					],
+					"name": "Belabela"
+				},
+				{
+					"areas": [
+						"Bosveldsig",
+						"Chroom Park",
+						"Impala Park",
+						"Mahwelereng Central",
+						"Mahwelereng",
+						"Mokopane Central",
+						"Mokopane East",
+						"Mokopane South",
+						"Mokopane West",
+						"Other",
+						"Rietfontein"
+					],
+					"name": "Mokopane"
+				},
+				{
+					"areas": [
+						"Domboni",
+						"Lwamondo",
+						"Madimbo",
+						"Makushu",
+						"Mopane",
+						"Musina CBD",
+						"Nancefield Extension",
+						"Nancefield",
+						"Other",
+						"Tshilwavhusiku",
+						"Tshipise"
+					],
+					"name": "Musina"
+				},
+				{
+					"areas": [
+						"Dwaalboom",
+						"Ellisras",
+						"Koedoeskop",
+						"Lephalale",
+						"Modimolle",
+						"Mokopane",
+						"Musina",
+						"Northam",
+						"Other",
+						"Thabazimbi CBD",
+						"Vaalfontein"
+					],
+					"name": "Thabazimbi"
+				},
+				{
+					"areas": [
+						"Giyani CBD",
+						"Giyani Section A",
+						"Giyani Section B",
+						"Giyani Section C",
+						"Giyani Section D",
+						"Giyani Section E",
+						"Giyani Section F",
+						"Giyani View",
+						"Makosha",
+						"Nkomo",
+						"Other"
+					],
+					"name": "Giyani"
+				},
+				{
+					"areas": [
+						"Letaba",
+						"Lulekani",
+						"Malamulele",
+						"Maruleng",
+						"Maseke",
+						"Mashishimale",
+						"Mokwasele",
+						"Namakgale",
+						"Other",
+						"Phalaborwa CBD",
+						"Selwane"
+					],
+					"name": "Phalaborwa"
+				},
+				{
+					"areas": [
+						"Makhado",
+						"Makwarela",
+						"Maniini",
+						"Muledane",
+						"Other",
+						"Phiphidi",
+						"Shayandima",
+						"Thavhani Mall",
+						"Tshikota",
+						"Tswinga",
+						"Vuwani"
+					],
+					"name": "Thohoyandou"
+				},
+				{
+					"areas": [
+						"Other"
+					],
+					"name": "Other"
+				}
+			],
+			"name": "Limpopo"
+		},
+		{
+			"cities": [
+				{
+					"areas": [
+						"Albertinia",
+						"Dana Bay",
+						"Gouritsmond",
+						"Great Brak River",
+						"Hartenbos",
+						"Heidelberg",
+						"Mossel Bay Central",
+						"Other",
+						"Riversdale",
+						"Stilbaai",
+						"Vleesbaai"
+					],
+					"name": "Mossel Bay"
+				},
+				{
+					"areas": [
+						"Barrydale",
+						"Bongolethu",
+						"Calitzdorp",
+						"De Rust",
+						"Dysselsdorp",
+						"Other",
+						"Oudtshoorn Central",
+						"Ruiterbos",
+						"Schoemanshoek",
+						"Van Wyksdorp",
+						"Volmoed"
+					],
+					"name": "Oudtshoorn"
+				},
+				{
+					"areas": [
+						"Beaufort West Central",
+						"Fraserburg",
+						"Lainsburg",
+						"Leeu-Gamka",
+						"Merweville",
+						"Murraysburg",
+						"Nelspoort",
+						"Other",
+						"Richmond",
+						"Victoria West",
+						"Vosburg"
+					],
+					"name": "Beaufort West"
+				},
+				{
+					"areas": [
+						"Bellville",
+						"CBD",
+						"Claremont",
+						"Constantia",
+						"Green Point",
+						"Observatory",
+						"Other",
+						"Sea Point",
+						"Table View",
+						"Tokai",
+						"Woodstock"
+					],
+					"name": "Cape Town"
+				},
+				{
+					"areas": [
+						"Betty's Bay",
+						"Fisherhaven",
+						"Hawston",
+						"Hermanus Central",
+						"Kleinmond",
+						"Onrus",
+						"Other",
+						"Pringle Bay",
+						"Rooi Els",
+						"Sandbaai",
+						"Voëlklip"
+					],
+					"name": "Hermanus"
+				},
+				{
+					"areas": [
+						"Breede River DC",
+						"Ceres Central",
+						"Mitchell's Pass",
+						"Op-die-Berg",
+						"Other",
+						"Prince Alfred Hamlet",
+						"Saron",
+						"Tolbosrivier",
+						"Tulbagh",
+						"Tweeside",
+						"Wolseley"
+					],
+					"name": "Ceres"
+				},
+				{
+					"areas": [
+						"Central",
+						"Cloetesville",
+						"Dalsig",
+						"Die Boord",
+						"Idas Valley",
+						"Jamestown",
+						"Krigeville",
+						"Kylemore",
+						"Other",
+						"Paradyskloof",
+						"Stellenbosch University"
+					],
+					"name": "Stellenbosch"
+				},
+				{
+					"areas": [
+						"Dal Josafat",
+						"Franschhoek",
+						"Gouda",
+						"Klapmuts",
+						"Other",
+						"Paarl Central",
+						"Pniel",
+						"Saron",
+						"Simondium",
+						"Wellington",
+						"Wemmershoek"
+					],
+					"name": "Paarl"
+				},
+				{
+					"areas": [
+						"Darling",
+						"Hopefield",
+						"Koringberg",
+						"Malmesbury",
+						"Moorreesburg",
+						"Other",
+						"Piketberg",
+						"Porterville",
+						"Riebeek Kasteel",
+						"Riebeek West",
+						"Vredenburg"
+					],
+					"name": "Swartland"
+				},
+				{
+					"areas": [
+						"Denneoord",
+						"George Central",
+						"Herolds Bay",
+						"Knysna",
+						"Other",
+						"Pacaltsdorp",
+						"Sedgefield",
+						"Thembalethu",
+						"Uniondale",
+						"Victoria Bay",
+						"Wilderness"
+					],
+					"name": "George"
+				},
+				{
+					"areas": [
+						"Other"
+					],
+					"name": "Other"
+				}
+			],
+			"name": "Western Cape"
+		},
+		{
+			"cities": [
+				{
+					"areas": [
+						"Alberton",
+						"Atholl",
+						"Auckland Park",
+						"Bassonia",
+						"Bedfordview",
+						"Benmore",
+						"Birdhaven",
+						"Blairgowrie",
+						"Bramley Park",
+						"Bramley",
+						"Bryanston",
+						"Buccleuch",
+						"Chartwell",
+						"Craigavon",
+						"Craighall",
+						"Cresta",
+						"Dainfern",
+						"Douglasdale",
+						"Dunkeld",
+						"Eagle Canyon",
+						"East Rand",
+						"Edenburg",
+						"Edenvale",
+						"Emmarentia",
+						"Fairland",
+						"Fontainebleau",
+						"Fordsburg",
+						"Forest Town",
+						"Fourways",
+						"Gallo Manor",
+						"Glen Austin",
+						"Glenanda",
+						"Glenferness",
+						"Glenhazel",
+						"Glenvista",
+						"Greenside",
+						"Greenstone Hill",
+						"Halfway Gardens",
+						"Highlands North",
+						"Homestead Park",
+						"Houghton",
+						"Illovo",
+						"Inanda",
+						"Jacanlee",
+						"Jukskei Park",
+						"Kelland",
+						"Kempton Park",
+						"Kensington B",
+						"Kensington",
+						"Kibler Park",
+						"Killarney",
+						"Kya Sands",
+						"Kyalami",
+						"Lanseria",
+						"Linden",
+						"Linksfield",
+						"Lonehill",
+						"Lyme Park",
+						"Magaliessig",
+						"Mayfair",
+						"Mellville",
+						"Melrose",
+						"Melville",
+						"Midrand",
+						"Mondeor",
+						"Montecasino",
+						"Mulbarton",
+						"Muldersdrift",
+						"Newlands",
+						"Noordheuwel",
+						"Noordwyk",
+						"North Riding",
+						"Northcliff",
+						"Norwood",
+						"Observatory",
+						"Olivedale",
+						"Orange Grove",
+						"Orchards",
+						"Ormonde",
+						"Other",
+						"Parkhurst",
+						"Parkmore",
+						"Parktown North",
+						"Parktown",
+						"Parkview",
+						"Paulshof",
+						"Pineslopes",
+						"Randburg",
+						"Rivonia",
+						"Robindale",
+						"Roodepoort",
+						"Roosevelt Park",
+						"Rosebank",
+						"Ruimsig",
+						"Sandhurst",
+						"Sandown",
+						"Savoy Estate",
+						"Southgate",
+						"Soweto",
+						"Strathavon",
+						"Sunninghill",
+						"Sydenham",
+						"The Hill",
+						"Vorna Valley",
+						"Waverley",
+						"Weltevreden Park",
+						"Westcliff",
+						"Westdene",
+						"Wierda Valley",
+						"Wilgeheuwel",
+						"Windsor",
+						"Woodlands",
+						"Woodleigh",
+						"Woodmead",
+						"Wynberg",
+						"Yeoville",
+						"Zandspruit",
+						"Zwartkop"
+					],
+					"name": "Johannesburg"
+				},
+				{
+					"areas": [
+						"Arcadia",
+						"Brooklyn",
+						"Centurion",
+						"Hatfield",
+						"Mamelodi",
+						"Menlyn",
+						"Other",
+						"Pretoria North",
+						"Pretoria West",
+						"Silver Lakes",
+						"Waterkloof"
+					],
+					"name": "Pretoria"
+				},
+				{
+					"areas": [
+						"Atlasville",
+						"Bardene",
+						"Bartlett",
+						"Berton Park",
+						"Jansen Park",
+						"Other",
+						"Parkrand",
+						"Ravensklip",
+						"Sunward Park",
+						"Villa Liza",
+						"Witfield"
+					],
+					"name": "Boksburg"
+				},
+				{
+					"areas": [
+						"Aureus",
+						"Eikepark",
+						"Finsbury",
+						"Greenhills",
+						"Helikon Park",
+						"Hillside",
+						"Mohlakeng",
+						"Oberholzer",
+						"Other",
+						"Toekomsrus",
+						"West Porges"
+					],
+					"name": "Randfontein"
+				},
+				{
+					"areas": [
+						"Barbeque Downs",
+						"Blue Hills",
+						"Carlswald",
+						"Crowthorne",
+						"Glen Austin",
+						"Halfway House",
+						"Kyalami",
+						"Noordwyk",
+						"Other",
+						"President Park",
+						"Vorna Valley"
+					],
+					"name": "Midrand"
+				},
+				{
+					"areas": [
+						"Bedfordview",
+						"Cleveland",
+						"Dawn Park",
+						"Edenvale",
+						"Elsburg",
+						"Gosforth Park",
+						"Kempton Park",
+						"Other",
+						"Primrose",
+						"Wadeville",
+						"Webber"
+					],
+					"name": "Germiston"
+				},
+				{
+					"areas": [
+						"Bedworth Park",
+						"Duncanville",
+						"Meyerton",
+						"Other",
+						"Peacehaven",
+						"Risiville",
+						"Sebokeng",
+						"Sharpeville",
+						"Three Rivers",
+						"Unitaspark",
+						"Vanderbijlpark"
+					],
+					"name": "Vereeniging"
+				},
+				{
+					"areas": [
+						"Casseldale",
+						"Dal Fouche",
+						"Dersley",
+						"Edelweiss",
+						"KwaThema",
+						"Other",
+						"Paul Krugersoord",
+						"Petersfield",
+						"Selection Park",
+						"Strubenvale",
+						"Wright Park"
+					],
+					"name": "Springs"
+				},
+				{
+					"areas": [
+						"Chancliff",
+						"Featherbrooke Estate",
+						"Kagiso",
+						"Kenmare",
+						"Lanseria",
+						"Mogale City",
+						"Monument",
+						"Muldersdrift",
+						"Noordheuwel",
+						"Other",
+						"Rangeview"
+					],
+					"name": "Krugersdorp"
+				},
+				{
+					"areas": [
+						"Clubview",
+						"Die Hoewes",
+						"Doringkloof",
+						"Eldoraigne",
+						"Highveld",
+						"Irene",
+						"Lyttelton",
+						"Other",
+						"Pierre van Ryneveld",
+						"Wierdapark",
+						"Zwartkop"
+					],
+					"name": "Centurion"
+				},
+				{
+					"areas": [
+						"Other"
+					],
+					"name": "Other"
+				}
+			],
+			"name": "Gauteng"
+		},
+		{
+			"cities": [
+				{
+					"areas": [
+						"Alton",
+						"Arcon Park",
+						"Bergsig",
+						"Klipdam",
+						"Lasiandra",
+						"Other",
+						"Roodia",
+						"Vaal Oewer",
+						"Vaal Triangle",
+						"Vaalpark",
+						"Zamdela"
+					],
+					"name": "Sasolburg"
+				},
+				{
+					"areas": [
+						"Arbor Park",
+						"Bakenpark",
+						"Bohlokong",
+						"Eureka",
+						"La Provence",
+						"Morelig",
+						"Other",
+						"Panorama",
+						"Paul Roux",
+						"Reitz",
+						"Witsieshoek"
+					],
+					"name": "Bethlehem"
+				},
+				{
+					"areas": [
+						"Arboretum",
+						"Brandwag",
+						"Dan Pienaar",
+						"Fichardt Park",
+						"Hospitaalpark",
+						"Langenhoven Park",
+						"Naval Hill",
+						"Other",
+						"Universitas",
+						"Westdene",
+						"Willows"
+					],
+					"name": "Bloemfontein"
+				},
+				{
+					"areas": [
+						"Bedelia",
+						"Dagbreek",
+						"Flamingo Park",
+						"Lejweleputswa",
+						"Naudeville",
+						"Other",
+						"Riebeeckstad",
+						"Steynsrus",
+						"Thabong",
+						"Voorspoed",
+						"Welkom Central"
+					],
+					"name": "Welkom"
+				},
+				{
+					"areas": [
+						"Bedfordview",
+						"Doornpan",
+						"Hooikraal",
+						"Koppiesdam",
+						"Makeleketla",
+						"Meloding",
+						"Merriespruit",
+						"Nyakallong",
+						"Other",
+						"Thembalihle",
+						"Weltevrede"
+					],
+					"name": "Virginia"
+				},
+				{
+					"areas": [
+						"Bergsig",
+						"Clocolan",
+						"Excelsior",
+						"Glen Reenen",
+						"Hlohlolwane",
+						"Jan Marx",
+						"Mafeteng",
+						"Other",
+						"Tsolo",
+						"Tweespruit",
+						"Wepener"
+					],
+					"name": "Ladybrand"
+				},
+				{
+					"areas": [
+						"Boitumelong",
+						"Elandia",
+						"Hillside",
+						"Hospitaal",
+						"Maokeng",
+						"Noordhoek",
+						"Other",
+						"Panorama",
+						"Suidrand",
+						"Uitsig",
+						"Wilgenhof"
+					],
+					"name": "Kroonstad"
+				},
+				{
+					"areas": [
+						"Borwa",
+						"Botshabelo",
+						"Clocolan",
+						"Ficksburg",
+						"Harrismith",
+						"Marquard",
+						"Other",
+						"Selosesha",
+						"Tlholong",
+						"Winburg",
+						"Zastron"
+					],
+					"name": "Thaba Nchu"
+				},
+				{
+					"areas": [
+						"Caledonspoort",
+						"Clarens",
+						"Excelsior",
+						"Fouriesburg",
+						"Ladybrand",
+						"Marquard",
+						"Meqheleng",
+						"Other",
+						"Rosendal",
+						"Senekal",
+						"Thaba Nchu"
+					],
+					"name": "Ficksburg"
+				},
+				{
+					"areas": [
+						"Deneysville",
+						"Dome",
+						"Koppies",
+						"Other",
+						"Paris Hill",
+						"Protea Park",
+						"Sasolburg",
+						"Tumahole",
+						"Vaal de Grace",
+						"Vredefort Dome",
+						"Vredefort"
+					],
+					"name": "Parys"
+				},
+				{
+					"areas": [
+						"Other"
+					],
+					"name": "Other"
+				}
+			],
+			"name": "Free State"
+		},
+		{
+			"cities": [
+				{
+					"areas": [
+						"Amalinda",
+						"Beacon Bay",
+						"Berea",
+						"Cambridge",
+						"Gonubie",
+						"Nahoon",
+						"Other",
+						"Quigney",
+						"Selborne",
+						"Southernwood",
+						"Vincent"
+					],
+					"name": "East London"
+				},
+				{
+					"areas": [
+						"Amatola View",
+						"Bhisho Central",
+						"Buffalo Flats",
+						"Gonubie",
+						"Other",
+						"Scenery Park"
+					],
+					"name": "Bisho"
+				},
+				{
+					"areas": [
+						"Bellevue",
+						"Berea",
+						"Hillside",
+						"Hofmeyr",
+						"Other",
+						"Steynsrus"
+					],
+					"name": "Aliwal North"
+				},
+				{
+					"areas": [
+						"C Place",
+						"Fountains Estate",
+						"Humansdorp",
+						"Other",
+						"Paradise Beach",
+						"Wavecrest"
+					],
+					"name": "Jeffreys Bay"
+				},
+				{
+					"areas": [
+						"Centane",
+						"Gcuwa",
+						"Idutywa",
+						"Mthatha Road",
+						"Other",
+						"Willowvale"
+					],
+					"name": "Butterworth"
+				},
+				{
+					"areas": [
+						"Central",
+						"Greenacres",
+						"Humerail",
+						"Mill Park",
+						"Mount Croix",
+						"Newton Park",
+						"Other",
+						"Richmond Hill",
+						"South End",
+						"Summerstrand",
+						"Walmer"
+					],
+					"name": "Port Elizabeth"
+				},
+				{
+					"areas": [
+						"Despatch",
+						"Fairbridge Heights",
+						"Kwanobuhle",
+						"Levyvale",
+						"Other",
+						"Winterhoek Park"
+					],
+					"name": "Uitenhage"
+				},
+				{
+					"areas": [
+						"Egazini",
+						"Fingo Village",
+						"Hill Sixty",
+						"Oatlands",
+						"Other",
+						"Rhini"
+					],
+					"name": "Grahamstown"
+				},
+				{
+					"areas": [
+						"Fort Gale",
+						"Mbuqe Extension",
+						"Nelson Mandela Drive",
+						"Other",
+						"Southernwood",
+						"Southridge Park"
+					],
+					"name": "Mthatha"
+				},
+				{
+					"areas": [
+						"Karoo View",
+						"Murray Park",
+						"Nahoon Valley",
+						"Oos-Kaap",
+						"Other",
+						"Ou Dorp"
+					],
+					"name": "Cradock"
+				},
+				{
+					"areas": [
+						"Komani Park",
+						"Molteno",
+						"Other",
+						"Queenstown Proper",
+						"Queenswood",
+						"Top Town"
+					],
+					"name": "Queenstown"
+				},
+				{
+					"areas": [
+						"Other"
+					],
+					"name": "Other"
+				}
+			],
+			"name": "Eastern Cape"
+		},
+		{
+			"cities": [
+				{
+					"areas": [
+						"Amersfoort",
+						"Amsterdam",
+						"Breyten",
+						"Carolina",
+						"Chrissiesmeer",
+						"Driefontein",
+						"Ermelo",
+						"Lothair",
+						"Other",
+						"Perdekop",
+						"Piet Retief"
+					],
+					"name": "Mkhondo"
+				},
+				{
+					"areas": [
+						"Amersfoort",
+						"Badplaas",
+						"Breyten",
+						"Carolina",
+						"Chrissiesmeer",
+						"Ermelo CBD",
+						"Lothair",
+						"Other",
+						"Perdekop",
+						"Piet Retief",
+						"Wesselton"
+					],
+					"name": "Ermelo"
+				},
+				{
+					"areas": [
+						"Badplaas",
+						"Barberton CBD",
+						"Elukwatini",
+						"Emjindini",
+						"Graskop",
+						"Hazyview",
+						"Kaapmuiden",
+						"Nelspruit",
+						"Other",
+						"Sabie",
+						"White River"
+					],
+					"name": "Barberton"
+				},
+				{
+					"areas": [
+						"Balfour",
+						"Bethal CBD",
+						"Evander",
+						"Kinross",
+						"Leandra",
+						"Other",
+						"Sasolburg",
+						"Secunda",
+						"Standerton",
+						"Trichardt",
+						"eMzinoni"
+					],
+					"name": "Bethal"
+				},
+				{
+					"areas": [
+						"Balfour",
+						"Bethal",
+						"Evander",
+						"Greylingstad",
+						"Morgenzon",
+						"Other",
+						"Perdekop",
+						"Sakhile",
+						"Standerton CBD",
+						"Trichardt",
+						"Volksrust"
+					],
+					"name": "Standerton"
+				},
+				{
+					"areas": [
+						"Ben Fleur",
+						"Del Judor",
+						"Emalahleni",
+						"Klarinet",
+						"Klipfontein",
+						"Other",
+						"Reyno Ridge",
+						"Witbank CBD",
+						"Witbank Ext",
+						"Witbank North",
+						"Witbank South"
+					],
+					"name": "Witbank"
+				},
+				{
+					"areas": [
+						"Bethal",
+						"Embalenhle",
+						"Ermelo",
+						"Evander",
+						"Kinross",
+						"Leandra",
+						"Other",
+						"Sasolburg",
+						"Secunda CBD",
+						"Standerton",
+						"Trichardt"
+					],
+					"name": "Secunda"
+				},
+				{
+					"areas": [
+						"Clubville",
+						"Dennesig",
+						"Gholfsig",
+						"Kanonkop",
+						"Kwazamokuhle",
+						"Mhluzi",
+						"Middelburg Central",
+						"Mineralia",
+						"Nazareth",
+						"Nieuw Muckleneuk",
+						"Other"
+					],
+					"name": "Middelburg"
+				},
+				{
+					"areas": [
+						"Deneysville",
+						"Frankfort",
+						"Heilbron",
+						"Kroonstad",
+						"Other",
+						"Parys",
+						"Sasolburg CBD",
+						"Vaalmarina",
+						"Vaalpark",
+						"Vanderbijlpark",
+						"Vereeniging"
+					],
+					"name": "Sasolburg"
+				},
+				{
+					"areas": [
+						"KaNyamazane",
+						"Kamagugu",
+						"Matsulu",
+						"Mbombela",
+						"Other",
+						"Pumlanga",
+						"Riverside",
+						"Sonheuwel",
+						"Steiltes",
+						"Stonehenge",
+						"West Acres"
+					],
+					"name": "Nelspruit"
+				},
+				{
+					"areas": [
+						"Other"
+					],
+					"name": "Other"
+				}
+			],
+			"name": "Mpumalanga"
+		},
+		{
+			"cities": [
+				{
+					"areas": [
+						"Other"
+					],
+					"name": "Other"
+				}
+			],
+			"name": "Other"
+		}
+	]
+}

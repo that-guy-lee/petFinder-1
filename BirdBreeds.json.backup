@@ -1,0 +1,18 @@
+[
+    {
+        "label": "Parrot",
+        "value": "Parrot",
+        "image": "https://www.thesprucepets.com/thmb/rW016PPM5VrD2cAJnMId-W1mLmM=/3865x0/filters:no_upscale():strip_icc()/close-up-of-gold-and-blue-macaw-perching-on-tree-962288862-5b50073e46e0fb0037c23c23.jpg"
+    },
+    {
+        "label": "African grey",
+        "value": "African grey",
+        "image": "https://www.thehappychickencoop.com/wp-content/uploads/2022/07/African-Grey-Parrot.jpg"
+    },
+    {
+        "label": "Other",
+        "value": "Other",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/2048px-Solid_white.svg.png"
+    }
+    
+]

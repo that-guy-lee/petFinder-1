@@ -1,0 +1,92 @@
+[
+    {
+        "label": "Labrador",
+        "value": "Labrador",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/YellowLabradorLooking_new.jpg/640px-YellowLabradorLooking_new.jpg"
+    },
+    {
+        "label": "Pug",
+        "value": "Pug",
+        "image": "https://cdn.britannica.com/34/233234-050-1649BFA9/Pug-dog.jpg"
+    },
+    {
+        "label": "Border Collie",
+        "value": "Border Collie",
+        "image": "https://cdn.britannica.com/25/234625-050-6070814C/Border-Collie-dog.jpg"
+    },
+    {
+        "label": "Bull Terrier",
+        "value": "Bull Terrier",
+        "image": "https://cdn.britannica.com/77/235277-050-E9162647/white-bull-terrier-dog.jpg"
+    },
+    {
+        "label": "Rottweiler",
+        "value": "Rottweiler",
+        "image": "https://www.animalsaroundtheglobe.com/wp-content/uploads/2023/01/rottweiler-gffe36a1a2_1920-e1672912886838.jpg"
+    },
+    {
+        "label": "Beagle",
+        "value": "Beagle",
+        "image": "https://cdn.britannica.com/16/234216-050-C66F8665/beagle-hound-dog.jpg"
+    },
+    {
+        "label": "Ridgeback",
+        "value": "Ridgeback",
+        "image": "https://www.akc.org/wp-content/uploads/2017/11/Rhodesian-Ridgeback-standing-in-profile-in-a-field-500x486.jpg"
+    },
+    {
+        "label": "Yorkshire Terrier",
+        "value": "Yorkshire Terrier",
+        "image": "https://www.thesprucepets.com/thmb/_h_L-WmYZhg2S2JDIYj6QGcZuhI=/1555x0/filters:no_upscale():strip_icc()/GettyImages-484401077-9fe32d83b6ef4f60b913737bb1b22690.jpg"
+    },
+    {
+        "label": "Boxer",
+        "value": "Boxer",
+        "image": "https://img.dog-learn.com/dog-breeds/boxer/brindle-boxer-dog-i20-sz6.jpg"
+    },
+    {
+        "label": "Staffordshire Bull Terrier",
+        "value": "Staffordshire Bull Terrier",
+        "image": "https://i.pinimg.com/736x/bd/eb/f7/bdebf75895b13e348720d0db2ea05259--staffordshire-bull-terrier-bull-terriers.jpg"
+    },
+    {
+        "label": "Jack Russell",
+        "value": "Jack Russell",
+        "image": "https://www.purina.co.uk/sites/default/files/styles/square_medium_440x440/public/2022-10/jack%20russell%201.jpg?h=9fcb0da0&itok=6FG3fRcf"
+    },
+    {
+        "label": "Husky",
+        "value": "Husky",
+        "image": "https://cdn.britannica.com/84/232784-050-1769B477/Siberian-Husky-dog.jpg"
+    },
+    {
+        "label": "Pitbull",
+        "value": "Pitbull",
+        "image": "https://worldanimalfoundation.org/wp-content/uploads/2022/12/Blue-Nose-Pitbull-review.jpg"
+    },
+    {
+        "label": "Golden Retriever",
+        "value": "Golden Retriever",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Golden_Retriever_Dukedestiny01_drvd.jpg/640px-Golden_Retriever_Dukedestiny01_drvd.jpg"
+    },
+    {
+        "label": "Bulldog",
+        "value": "Bulldog",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bulldog_inglese.jpg/1200px-Bulldog_inglese.jpg"
+    },
+    {
+        "label": "German Shepherd",
+        "value": "German Shepherd",
+        "image": "https://cdn.britannica.com/79/232779-050-6B0411D7/German-Shepherd-dog-Alsatian.jpg"
+    },
+    {
+        "label": "Dachshund",
+        "value": "Dachshund",
+        "image": "https://cdn.britannica.com/13/234213-050-45F47984/dachshund-dog.jpg"
+    },
+    {
+        "label": "Other",
+        "value": "Other",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/2048px-Solid_white.svg.png"
+    }
+]

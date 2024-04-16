@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "petFinder",
+    "name": "PetFinder",
     "slug": "petFinder",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -15,7 +15,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.that.guy.lee.PetFinder"
     },
     "android": {
       "adaptiveIcon": {
@@ -25,6 +26,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "453a93c3-51f9-437a-a782-b1f3370ccecc"
+      }
     }
   }
 }
